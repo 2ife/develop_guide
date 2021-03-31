@@ -19,7 +19,7 @@ body{
 
 .titleContainer h1{
     width:60%;
-    font-size: 0.75rem;
+    font-size: 1rem;
     font-weight: 700;
     text-align: center;
 }
@@ -32,7 +32,7 @@ body{
 }
 
 .titleContainer button{
-    font-size: 0.6rem;
+    font-size: 0.75rem;
     font-weight: 600;
     padding: 0.5rem 0.25rem;
     border: 0.1rem solid rgba(0, 0, 0, 0.75);
@@ -55,7 +55,7 @@ body{
 
 .explanationContainer p {
     padding: 0 1rem;
-    font-size: 0.1rem;
+    font-size: 0.75rem;
     font-weight: 500;
 }
 
@@ -86,7 +86,7 @@ body{
 }
 
 .linkContainer span{
-    font-size: 0.75rem;
+    font-size: 0.9rem;
     font-weight: 600;
 }
 
@@ -96,6 +96,6 @@ body{
     color:rgb(38, 0, 255)
 }
 .linkContainer p{
-    font-size: 0.5rem;
+    font-size: 0.75rem;
     font-weight: 500;
 }
