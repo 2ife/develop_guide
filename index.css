@@ -43,12 +43,13 @@ body{
 }
 
 .extraContainer button{
-    padding: 0.5rem 0.25rem;
+    padding: 0.75rem 0.5rem;
     border: 0.1rem solid rgba(0, 0, 0, 0.75);
     border-radius: 0.5rem;
     box-shadow: 0 0.1rem 0.1rem rgba(0, 0, 0, 0.5), 0 0.1rem 0.1rem rgba(0, 0, 0, 0.5);
     font-size: 0.75rem;
     font-weight: 600;
+    cursor: pointer;
     background-color: white;
 }
 
@@ -124,12 +125,12 @@ body{
 }
 
 .requiredReading button{
-    font-size: 0.5em;
+    font-size: 0.5rem;
     font-weight: 600;
-    padding: 0.5em 1em;
-    border: 0.1em solid rgba(0, 0, 0, 0.5);
-    border-radius: 0.5em;
-    box-shadow: 0 0.1em 0.1em rgb(0, 0, 0), 0 0.1em 0.1em rgb(0, 0, 0);
+    padding: 0.5rem 1rem;
+    border: 0.1rem solid rgba(0, 0, 0, 0.5);
+    border-radius: 0.5rem;
+    box-shadow: 0 0.1rem 0.1rem rgb(0, 0, 0), 0 0.1rem 0.1rem rgb(0, 0, 0);
     background-color: white;
 }
 
